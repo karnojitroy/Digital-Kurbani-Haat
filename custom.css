@@ -1,0 +1,16 @@
+
+.collapse ul li:hover a{
+    color: red !important;
+}
+.bg-information{
+    background-color:#7df78d ;
+}
+
+.btn-details,
+.btn-buy-now {
+    background-image: linear-gradient(to right, #dc3545 , rgb(230, 243, 196));
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
